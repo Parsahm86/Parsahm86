@@ -12,16 +12,16 @@
 </div>
 
 <br>
-<h1 align="center">Hi 👋, I'm Seko</h1>
-<h3 align="center">ML Engineer | AI Developer 💻</h3>
+<h1 align="center">Hi 👋, I'm parsa</h1>
+<h3 align="center">Mechanical Engineering</h3>
 
 <img align='right' alt='code...' width='400' onclick="window.open('[https://github.com](https://github.com/Parsahm86)', '_blank')" src='https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsahm86&label=Profile%20views&color=0e75b6&style=flat" alt="parsahm86" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Parsahm86](https://github.com/Parsahm86)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/parsaenghm](www.linkedin.com/in/parsaenghm)
 
-- 📫 How to reach me **parsahm2016@gmail.com**
+- 📫 How to reach me **parsahm2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

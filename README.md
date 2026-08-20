@@ -8,13 +8,13 @@
 
 <br>
 
-<h1 align="center" style="font-size: 48px; margin-bottom: 0;">Hi 👋, I'm Parsa.hm</h1>
+<h1 align="center" style="font-size: 48px; margin-bottom: 0;">Junior Mechanical Designer ⚙️</h1>
 
 <br>
 
 <img align="right" src="https://github.com/Parsahm86/Car-Jack-SolidWorks/blob/main/RENDERS/Assem1%20VID.gif?raw=true" width="550" style="border-radius: 16px; border: 2px solid #30363d; box-shadow: 0 4px 10px rgba(0,0,0,0.4); margin-left: 30px; margin-bottom: 20px;">
 
-<h3 style="font-size: 24px; margin-top: 5px;">Junior Mechanical Designer ⚙️</h3>
+<h3 style="font-size: 24px; margin-top: 5px;">Hi 👋, I'm Parsa.hm</h3>
 
 <p>
   📫 <strong>Email:</strong> <a href="mailto:parsahm2020@gmail.com" style="text-decoration: none; color: #58a6ff;">parsahm2020@gmail.com</a>
